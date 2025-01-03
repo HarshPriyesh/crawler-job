@@ -1,6 +1,6 @@
 {
   "type": "record",
-  "name": "AvrosampleNetCore.AccountDetails",
+  "name": "AccountDetails",
   "fields": [
     {
       "name": "AccountId",
@@ -18,7 +18,7 @@
           "type": "array",
           "items": {
             "type": "record",
-            "name": "AvrosampleNetCore.SubAccounts",
+            "name": "SubAccount",
             "fields": [
               {
                 "name": "AccountId",
