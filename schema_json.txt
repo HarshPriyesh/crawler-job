@@ -1,0 +1,6 @@
+IST_Date
+epoch_time
+ingestion_timestamp
+userDetails.email
+userDetails.name
+userId
